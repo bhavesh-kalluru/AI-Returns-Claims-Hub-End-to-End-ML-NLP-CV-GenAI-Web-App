@@ -44,3 +44,24 @@ cp .env.example .env
 
 # launch the app
 python3 -m streamlit run app/web/claims_app.py
+
+Tech Stack
+Languages/Frameworks: Python, Streamlit, SQLAlchemy
+ML/DL/NLP: scikit-learn, VADER, TF-IDF, ANN (MLPRegressor)
+Computer Vision: OpenCV, Pillow
+GenAI: OpenAI API (GPT models)
+Analytics: Power BI (via CSV exports + SQL views)
+
+Why This Project?
+This project demonstrates my ability to:
+Frame a real-world business problem,
+Engineer data pipelines,
+Apply NLP, ANN, and CV models,
+Integrate Generative AI for user-facing outputs,
+Build a working web app with database persistence,
+Deliver analytics-ready datasets.
+
+Author
+Bhavesh Kalluru
+Actively seeking full-time AI/GenAI Engineer roles in the USA.
+This repository showcases my capability to design, build, and deploy complete AI solutions.
